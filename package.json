@@ -7,12 +7,16 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "chess.js": "^1.0.0-beta.8",
+    "firebase": "^10.8.1",
     "react": "^18.2.0",
     "react-app-error-boundary": "^1.0.5",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-router-dom": "^6.22.3",
     "react-scripts": "^5.0.1",
+    "rxfire": "^6.0.5",
     "rxjs": "^7.8.1"
   },
   "scripts": {
